@@ -22,6 +22,6 @@
   "dependencies": {
     "uglify-js": "1.1.1",
     "jsdom": "0.2.8",
-    "vows": "0.5.11"
+    "vows": "0.8.3"
   }
 }
